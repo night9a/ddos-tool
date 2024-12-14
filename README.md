@@ -11,10 +11,3 @@
 - Python 3.x
 - `requests` library (for making HTTP requests)
 
-## Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/ddos-tool.git
-   cd ddos-tool
